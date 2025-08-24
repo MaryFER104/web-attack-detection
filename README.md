@@ -10,7 +10,7 @@ This project develops a deep neural network model for web attack detection, capa
 
 
 ## ▶️ Run in Google Colab
-[![Open in Colab](https://colab.research.google.com/drive/1Jjj8wudrzIL8AwTiCtY91l9wBPIdFiC-?usp=sharing))]
+https://colab.research.google.com/drive/1Jjj8wudrzIL8AwTiCtY91l9wBPIdFiC-?usp=sharing 
 
 ## 📊 Results
 - High overall accuracy (99%)
